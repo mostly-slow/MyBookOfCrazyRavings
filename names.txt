@@ -37,7 +37,7 @@ Gromph = Greduce
 Lolth = Volvth-hah
 Viconia = Stay-yah, Care-La's friend
 EiliastrEe = Viviane-la
-Xerath = Vie-La
+Xerath = Xie-La
 Gala-ia
 No)name of the HighMmer
 
