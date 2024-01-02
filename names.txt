@@ -27,7 +27,7 @@ Olata of the Aquers. A hardcore gamer who chose gaming over eGg laying! She eats
 Spock = DimLow
 Galadriel = SunNydriel
 
-Sauron = Gladshadow
+Sauron = Gladshadow = ?
 Melkor = Fearshadow
 
 Gargamel = Vernon
