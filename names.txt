@@ -5,14 +5,24 @@ Espie = Sacred Pillow
 Myoko = Motoko Kusanagi, a.k.a. the Major. From the future!
 KeRrigan = KeRry, Jim's beloved
 
+Spock = DimLow
+Diana Troy = Rapunzela
+Enterprise = CoOperative
+Riker = Cervantes
+Janeway = Wildway
+Picard = Vrichard
+
 Minsc = GiovaNni
 BoO, GiovanNi's friend Sigura could talk to
+Gandalf = George
+Gargamel = Ragamel
 
 GarRus Vakerian = MoOnshadow
 TiFfany, a stylist with a history hobBy
 NameleSs, with the secret rank and gender
 Thunder = Morinth
 Julie = Liara T'Soni
+Solario = Shepard
 
 Optimus Prime = Crest_Numbers
 Megatron = Sauldor
@@ -26,8 +36,8 @@ Vorazun = Flowereza
 
 Olata of the Aquers. A hardcore gamer who chose gaming over eGg laying! She eats people.
 
-Spock = DimLow
 Galadriel = SunNydriel
+Gimli = Dents D'Argent = [Silver Teeth] or [Money TeEth]
 
 Sauron = Gladshadow = ?
 Melkor = Fearshadow
@@ -44,7 +54,8 @@ Gala-ia
 No)name of the HighMmer
 
 Pinky Pie = Transcendi
-FluTtershy = General AngleShy
+Rarity = IsabeLla
+FluTtershy = General AngelShy
 PrinceSs Celestia = PrinceSs Elmira 
 PrincesS Twilight Sparkle = Sophie
 
@@ -68,3 +79,7 @@ Turians = Ayamar
 Aaaah = Ah-merRy
 HighMmer 
 Longbacks = Dragons
+Vulcan = Astarie
+Ferengi = Igneref
+Irken = Eraftzy
+Q = Z
