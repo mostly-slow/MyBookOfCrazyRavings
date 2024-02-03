@@ -87,3 +87,4 @@ Vulcan = Astarie
 Ferengi = Igneref
 Irken = Eraftzy
 Q = Z
+Snarks = Varks
