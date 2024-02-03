@@ -6,6 +6,7 @@ Myoko = Motoko Kusanagi, a.k.a. the Major. From the future!
 KeRrigan = KeRry, Jim's beloved
 Dog (?) & Albertina Einseinstein
 Nit, Hyper PrincesS of Albertina Einseinstein
+Sylvie = Sylviana = God = Eru Illuvatar
 
 Spock = DimLow
 Diana Troy = Rapunzela
@@ -17,6 +18,7 @@ Picard = Vrichard
 Minsc = GiovaNni
 BoO, GiovanNi's friend Sigura could talk to
 Gandalf = George
+Gwenyvhar = Plumpy
 Gargamel = Ragamel
 
 GarRus Vakerian = MoOnshadow
@@ -87,4 +89,4 @@ Vulcan = Astarie
 Ferengi = Igneref
 Irken = Eraftzy
 Q = Z
-Snarks = Varks
+Snurks = Varks
