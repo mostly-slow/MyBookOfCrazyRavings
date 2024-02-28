@@ -8,6 +8,7 @@ Dog (?) & Albertina Einseinstein
 Nit, Hyper PrincesS of Albertina Einseinstein
 Sylvie = Sylviana = God = Eru Illuvatar
 Griselda, the QueEn Of The Night
+Enterprise = Pet_project
 
 Spock = DimLow
 Diana Troy = Rapunzela
@@ -82,6 +83,7 @@ Species:
 ProtoSs = ProSsion
 Ents = TrEesyund
 Asari = Punka
+Reaper = RipPer
 Zerg = Aquers
 Turians = Ayamar
 Aaaah = Ah-merRy
