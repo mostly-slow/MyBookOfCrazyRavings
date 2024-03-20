@@ -53,6 +53,11 @@ Melkor = Fearshadow
 
 Gargamel = Vernon
 
+	World of ClearDarkWater = Underdark, ClearLightWater = surface. Also known as ClearWater = Fearun.
+
+Ariel MOonblade = TeSs SunARrow-Grey
+Danilo ThaNn = NilLes SunARrow-Grey
+
 Liriel = Care-La
 Gromph = Greduce
 Lolth = Volvth-hah
@@ -60,6 +65,7 @@ Viconia = Stay-yah, Care-La's friend
 EiliastrEe = Viviane-la
 Xerath = Xie-La
 Gala-ia = Olga-La = Malice
+
 No)name of the HighMmer
 
 
