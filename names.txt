@@ -55,8 +55,8 @@ Gargamel = Vernon
 
 	World of ClearDarkWater = Underdark, ClearLightWater = surface. Also known as ClearWater = Fearun.
 
-Ariel MOonblade = TeSs SunARrow-Grey
-Danilo ThaNn = NilLes SunARrow-Grey
+Ariel MOonblade = TeSs StarARrow-Grey
+Danilo ThaNn = NilLes StarARrow-Grey
 
 Liriel = Care-La
 Gromph = Greduce
