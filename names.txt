@@ -60,9 +60,9 @@ Danilo ThaNn = NilLes StarARrow-Grey
 
 Liriel = Care-La
 Gromph = Greduce
-Lolth = Volvth-hah
+Lolth = Volvth-hah = Lina
 Viconia = Stay-yah, Care-La's friend
-EiliastrEe = Viviane-la
+EiliastrEe = Whitney-hah = Viviane-la
 Xerath = Xie-La
 Gala-ia = Olga-La = Malice
 
