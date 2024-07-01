@@ -71,7 +71,7 @@ Gala-ia = Olga-La = Malice
 No)name of the HighMmer
 
 
-Pinky Pie = Transcendi
+Pinky Pie = Transcendi = IsAac
 Rarity = IsabeLla
 FluTtershy = General AngelShy
 PrinceSs Celestia = PrinceSs Elmira (a that woman)
