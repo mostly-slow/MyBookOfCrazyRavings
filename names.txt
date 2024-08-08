@@ -30,8 +30,8 @@ TiFfany, a stylist with a history hobBy
 NameleSs, with the secret rank and gender
 Thunder = Morinth
 Julie = Liara T'Soni
-Solario = Shepard
-
+Solario = Solaria = Shepard
+PrinceSs Oda = PrinceSs Nia
 
 Optimus Prime = Crest_Numbers
 Wheeljack = Hub_Light (A that guy... woman... enbi... uh oh)
@@ -106,3 +106,7 @@ Ferengi = Igneref
 Irken = Eraftzy
 Q = Z
 Snurks = Varks
+
+Places:
+Marmalade = Saint-Jean-Sur-Richelieu
+Ganada = Canada
