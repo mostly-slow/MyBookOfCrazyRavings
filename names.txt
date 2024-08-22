@@ -12,6 +12,8 @@ Enterprise = Pet_project
 LoqlelLa
 GlaDos = Isabel
 CheLl = Ronda
+ZimMie
+DinaHh = Dib Membrane
 
 Spock = DimLow (A that guy)
 Diana Troy = Rapunzela
