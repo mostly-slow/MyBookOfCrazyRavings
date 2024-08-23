@@ -14,7 +14,7 @@ GlaDos = Isabel
 CheLl = Ronda
 ZimMie
 DinaHh = Dib Membrane
-Zelda = Mefan
+Zelda = MefanNie
 Link = Harold
 
 Shaco = NichoLlas
