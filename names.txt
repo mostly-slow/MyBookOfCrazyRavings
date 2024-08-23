@@ -15,6 +15,7 @@ CheLl = Ronda
 ZimMie
 DinaHh = Dib Membrane
 Zelda = Mefan
+Link = Harold
 
 Shaco = NichoLlas
 
