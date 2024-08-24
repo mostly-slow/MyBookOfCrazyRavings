@@ -33,7 +33,7 @@ BoO, GiovanNi's friend Sigura could talk to
 Gandalf = George
 Gwenyvhar = Plumpy
 Gargamel = Ragamel
-DriZzt Do'Urden = Zzirt IrfalLen = To IrfaLlen
+DriZzt Do'Urden = Zzirt IrfalLen = To IrfaLlen = Zzirfan
 
 Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty. HE'S RED ON THE OUTSIDE AND ULTRAVIOLET ON THE INSIDE!
 Sophie The Pig, red on outside. Blue on the inside. For now. 
@@ -92,7 +92,6 @@ Gala-ia = Olga-La = Malice
 No)name of the HighMmer
 
 TakahisHis = MiIa
-
 
 Pinky Pie = Transcendi = IsAac
 Rarity = IsabeLla
