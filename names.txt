@@ -25,6 +25,7 @@ Enterprise = CoOperative
 Riker = Cervantes
 Janeway = Wildway
 Picard = Vrichard
+Shein of the Portal KeEpers != Amon of the Asari and Amon isn't Asari 
 
 Minsc = GiovaNni
 BoO, GiovanNi's friend Sigura could talk to
