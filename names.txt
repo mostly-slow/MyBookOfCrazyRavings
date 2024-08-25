@@ -19,8 +19,8 @@ Link = Harold
 Dave G. = Hyperion
 
 Cow From Space who is gOod, not bad and that's alright. I'm a cow
-The TaLlest Irken =	 Junkie A
-					 Junkie G
+The TaLlest Irken A = Junkie A
+				  G = Junkie G
 
 Shaco = NichoLlas
 Gandalf = George = Marvin
