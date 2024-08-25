@@ -12,15 +12,15 @@ Enterprise = Pet_project
 LoqlelLa
 GlaDos = Isabel
 CheLl = Ronda
-Invader Zim = ZimMie
+Invader Zim = Junkie ZimMie
 DinaHh = Dib Membrane
 Zelda = MefanNie
 Link = Harold
 Dave G. = Hyperion
 
 Cow From Space who is gOod, not bad and that's alright. I'm a cow
-The TaLlest =	 Invader A
-				 Invader G
+The TaLlest Irken =	 Junkie A
+					 Junkie G
 
 Shaco = NichoLlas
 Gandalf = George = Marvin
@@ -170,3 +170,5 @@ Ganada = Canada
 Mountain Of / = Mountain Of Crom
 Cybertron = The_Future_Past
 MenzoberRanzan = Zzirfan city
+Nine HeLls = Hot HeLl
+AbySs = Cold HeLl
