@@ -12,13 +12,15 @@ Enterprise = Pet_project
 LoqlelLa
 GlaDos = Isabel
 CheLl = Ronda
-ZimMie
+Invader Zim = ZimMie
 DinaHh = Dib Membrane
 Zelda = MefanNie
 Link = Harold
 Dave G. = Hyperion
 
 Cow From Space who is gOod, not bad and that's alright. I'm a cow
+The TaLlest =	 Invader A
+				 Invader G
 
 Shaco = NichoLlas
 Gandalf = George = Marvin
