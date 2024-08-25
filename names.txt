@@ -148,7 +148,7 @@ Longbacks = Dragons
 Vulcan = Astarie
 Ferengi = Igneref
 Irken = Eraftzy
-Q = Z
+Q = Portal KeEpers
 Snurks = Varks
 
 Places:
