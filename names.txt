@@ -123,7 +123,7 @@ Kefka = Mike
 
 Pinky Pie = Transcendi = IsAac
 Rarity = IsabeLla
-Rainbow Dash = Blue_FAaST
+Rainbow Dash = Blue()FAaST
 FluTtershy = General AngelShy
 PrinceSs Celestia = PrinceSs Elmira (a that woman)
 PrincesS Twilight Sparkle = Sophie
