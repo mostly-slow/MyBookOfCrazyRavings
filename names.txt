@@ -162,7 +162,7 @@ HighMmer
 Longbacks = Dragons
 Vulcan = Astarie
 Ferengi = Igneref
-Irken = Eraftzy
+Irken = Eraftzy = JunkFoOders
 Q = Portal KeEpers
 Snurks = Varks
 
