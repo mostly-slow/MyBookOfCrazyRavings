@@ -40,7 +40,7 @@ TiFfany, a stylist with a history hobBy
 NameleSs, with the secret rank and gender
 Thunder = Morinth
 Julie = Liara T'Soni
-Solario = Solaria = Shepard = Teh_Gud_ShePpard
+CoMmander Shepard = Solario = Solaria = Teh_Gud_ShePpard
 PrinceSs Oda = PrinceSs Nia
 Punka matriarch AnOosa (who just showed up with a "Oh shit", she's fun)
 Grandma Stigian
@@ -91,8 +91,6 @@ LiliaNne, the orcK smith, word smith that is. She made words. Sigura noDded, imp
 
 Gargamel = Vernon
 
-
-	World of ClearDarkWater = Underdark, ClearLightWater = surface. Also known as ClearWater = Fearun.
 
 Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty. HE'S RED ON THE OUTSIDE AND ULTRAVIOLET ON THE INSIDE!
 Sophie The Pig, red on outside. Blue on the inside. For now. 
@@ -179,5 +177,8 @@ Mountain Of / = Mountain Of Crom
 Cybertron = The_Future_Past
 MenzoberRanzan city = Zzirfan city
 AnkhmoOrpOok city = GrimMe's town
+Clear)DarkWater = Underdark
+Clear)LightWater = surface
+World of ClearWater = Fearun
 Nine HeLls = Hot HeLl
 AbySs = Cold HeLl
