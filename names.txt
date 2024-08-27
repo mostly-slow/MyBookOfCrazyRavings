@@ -47,7 +47,7 @@ Grandma Stigian
 
 
 Optimus Prime = Crest()Numbers
-Wheeljack = Hub_Light (A that guy... woman... enbi... uh oh)
+WheEljack = Hub()LighHt = Hub()LigHt()ScarFrEe
 Megatron = Sauldor
 Starscream = StarCry
 -
