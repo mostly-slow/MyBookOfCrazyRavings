@@ -123,7 +123,7 @@ Kefka = Mike
 Pinky Pie = Transcendi = IsAac
 Rarity = IsabeLla
 Rainbow Dash = Blue()FAaST
-FluTtershy = General AngelShy
+FluTtershy = General Angel()Shy
 PrinceSs Celestia = PrinceSs Elmira (a that woman)
 PrincesS Twilight Sparkle = Sophie
 PrinceSs Luna = Monica
@@ -134,6 +134,8 @@ IZzy MOonbow, SigUura's worst nightmare = Ppatricia
 
 
 QuEen Chrysalis = QuEen Enovid
+QuEen YvaNna of the Valar = Georgia Malcolm
+Tulkas the knight, who laughs like Kefka = WiLlbert
 
 
 Mr. Clean = Riol
