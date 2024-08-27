@@ -106,7 +106,7 @@ Xerath = Xie-La
 Gala-ia = Olga-La = Malice
 CryYstahl's SiguUra's friend. and enemie. Her greatest foe. Okay maybe not, they were piling up and the Tank Guy shot a guy...
 
-No)name of the HighMmer
+No()name of the HighMmer
 Minsc = GiovaNni
 BoO, GiovanNi's friend Sigura could talk to
 Gwenyvhar = Plumpy
