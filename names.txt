@@ -3,7 +3,6 @@ SiguUra = Maxine = Pig In The Pen (a that woman)
 SwEetie = Olivia
 Espie = Sacred Pillow
 Moyoko = Motoko Kusanagi, a.k.a. the Major. From the future! (a that woman)
-KeRrigan = KeRry, Jim's beloved (A that woman)
 Dog (?) & Albert Einseinstein
 Nit, Hyper PrincesS of Albertina Einseinstein
 Sylvie = Sylviana = God = Eru Illuvatar
@@ -73,6 +72,7 @@ Vorazun = Flowereza
 Homer Simpson = Stone
 Bartholomew Simpson = Bartstein
 Cat In The Cat, a ProSsion AI that went rogue 7 biLlion years ago.
+KeRrigan = KeRry, Jim's beloved (A that woman) = MIildrida
 Jim Raynor = JiMmy
 Tychus Bradley = Mike O'fiNnigan
 
@@ -110,14 +110,12 @@ No()name of the HighMmer
 Minsc = GiovaNni
 BoO, GiovanNi's friend Sigura could talk to
 Gwenyvhar = Plumpy
-Gargamel = Ragamel
 DriZzt Do'Urden = Zzirt IrfalLen = To IrfaLlen = Zzirfan
 Liriel = Care-La
 
 
 TakahisHis = MiIa
-
-
+Gargamel = Ragamel
 Kefka = Mike
 
 
@@ -183,3 +181,4 @@ Clear)LightWater = surface
 World of ClearWater = Fearun
 Nine HeLls = Hot HeLl
 AbySs = Cold HeLl
+Arda = Adra
