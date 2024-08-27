@@ -24,6 +24,7 @@ Earthworm Jim = JeFfrey
 
 Shaco = NichoLlas
 Gandalf = George = Marvin
+Pulse
 
 Spock = Dimlow (A that guy)
 Diana Troy = Rapunzela
