@@ -1,6 +1,6 @@
 Characters:
 SiguUra = Maxine = Pig In The Pen (a that woman)
-SwEetie = Olivia
+SwEetie = Olivia = Oohnyx
 Espie = Sacred Pillow
 Moyoko = Motoko Kusanagi, a.k.a. the Major. From the future! (a that woman)
 Dog (?) & Albert Einseinstein
@@ -25,6 +25,7 @@ Earthworm Jim = JeFfrey
 Shaco = NichoLlas
 Gandalf = George = Marvin
 Pulse
+TEemo = Kameninder = Kkameninder the SheriFf
 
 Spock = Dimlow (A that guy)
 Diana Troy = Rapunzela
@@ -185,3 +186,4 @@ World of ClearWater = Fearun
 Nine HeLls = Hot HeLl
 AbySs = Cold HeLl
 Arda = Adra
+Bandel city = EemOo megalopis
