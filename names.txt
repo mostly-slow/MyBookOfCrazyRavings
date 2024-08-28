@@ -91,10 +91,7 @@ Shelob = MeredithH
 LiliaNne, the orcK smith, word smith that is. She made words. Sigura noDded, impreSsed
 
 
-Gargamel = Vernon
-
-
-Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty. 
+ 
 Sophie The Pig, red on outside. Blue on the inside. For now. 
 Arylin MOonblade = TeSs StarARrow-Grey
 Danilo ThaNn = NilLes StarARrow-Grey
@@ -118,6 +115,8 @@ Liriel = Care-La
 TakahisHis = MiIa
 Gargamel = Ragamel
 Kefka = Mike
+Gargamel = Vernon
+Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty
 
 
 Pinky Pie = Transcendi
