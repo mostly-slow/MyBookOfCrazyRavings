@@ -77,7 +77,7 @@ Bartholomew Simpson = Bartstein
 Cat In The Cat, a ProSsion AI that went rogue 7 biLlion years ago.
 KeRrigan = KeRry, Jim's beloved (A that woman) = MIildrida
 Jim Raynor = JiMmy
-Tychus Bradley = Mike O'fiNnigan
+Tychus Bradley = Mike O'FiNnigan
 
 Olata of the Aquers. A hardcore gamer who chose gaming over eGg laying! She eats people.
 DanzeLla
@@ -173,6 +173,7 @@ Irken = Eraftzy = JunkFoOders
 Q = Portal KeEpers
 Autobots = TabascQuie
 Snurks = Varks
+Geth = Guth
 
 Places:
 Marmalade = Saint-Jean-Sur-Richelieu
