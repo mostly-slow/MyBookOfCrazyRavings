@@ -49,6 +49,7 @@ Grandma Stigian
 
 
 Optimus Prime = Crest()Numbers
+Prince LemonGraBb = Lemon()WateRr
 WheEljack = Hub()LighHt = Hub()LigHt()ScarFrEe
 Megatron = Sauldor
 Starscream = StarCry
@@ -121,7 +122,7 @@ Gargamel = Ragamel
 Kefka = Mike
 
 
-Pinky Pie = Transcendi = IsAac
+Pinky Pie = Transcendi
 Rarity = IsabeLla
 Rainbow Dash = Blue()FAaST
 FluTtershy = General Angel()Shy
