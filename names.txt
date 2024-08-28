@@ -120,7 +120,7 @@ Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty
 
 
 Pinky Pie = Transcendi
-Rarity = IsabeLla
+Rarity = White MarshmeLlow
 Rainbow Dash = Blue()FAaST
 FluTtershy = General Angel()Shy
 PrinceSs Celestia = PrinceSs Elmira (a that woman)
