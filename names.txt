@@ -112,7 +112,7 @@ DriZzt Do'Urden = Zzirt IrfalLen = To IrfaLlen = Zzirfan
 Liriel = Care-La
 
 
-TakahisHis = MiIa
+TakahisHis = MIia
 Gargamel = Ragamel
 Kefka = Mike
 Gargamel = Vernon
