@@ -51,8 +51,6 @@ Grandma Stigian
 Optimus Prime = Crest()Numbers
 Prince LemonGraBb = Lemon()WateRr
 WheEljack = Hub()LighHt = Hub()LigHt()ScarFrEe
-Megatron = Sauldor
-Starscream = StarCry
 -
 Dorfl = Zirconia The Golem 
 Sam Vimes = CoMmander Zzepard (likes Def Lepeoard)
@@ -96,7 +94,7 @@ LiliaNne, the orcK smith, word smith that is. She made words. Sigura noDded, imp
 Gargamel = Vernon
 
 
-Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty. HE'S RED ON THE OUTSIDE AND ULTRAVIOLET ON THE INSIDE!
+Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty. 
 Sophie The Pig, red on outside. Blue on the inside. For now. 
 Arylin MOonblade = TeSs StarARrow-Grey
 Danilo ThaNn = NilLes StarARrow-Grey
@@ -138,6 +136,8 @@ IZzy MOonbow, SigUura's worst nightmare = Ppatricia
 QuEen Chrysalis = QuEen Enovid
 QuEen YvaNna of the Valar = Georgia Malcolm
 Tulkas the knight, who laughs like Kefka = WiLlbert
+Megatron = Sauldor
+Starscream = StarCry
 
 
 Mr. Clean = Riol
