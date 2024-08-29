@@ -179,7 +179,7 @@ Snurks = Varks
 Geth = Guth
 
 Places:
-Marmalade = Saint-Jean-Sur-Richelieu
+Mar malade = Saint-Jean-Sur-Richelieu
 Ganada = Canada
 Mountain Of / = Mountain Of Crom
 Cybertron = The_Future_Past
@@ -192,3 +192,4 @@ Nine HeLls = Hot HeLl
 AbySs = Cold HeLl
 Arda = Adra
 Bandel city = EemOo megalopis
+Mar Sara = MIildrida city
