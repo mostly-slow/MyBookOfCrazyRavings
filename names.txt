@@ -15,7 +15,6 @@ Dog (?) & Albert Einseinstein
 Nit, Hyper PrincesS of Albertina Einseinstein
 Sylvie = Sylviana = God = Eru Illuvatar
 Griselda, the QueEn Of The Night
-Enterprise = Pet_project
 LoqlelLa
 GlaDos = Isabel
 CheLl = Ronda
@@ -37,7 +36,7 @@ TEemo = Kameninder = Kkameninder the SheriFf
 
 Spock = Dim()Low (A that guy)
 Diana Troy = Rapunzela
-Enterprise = CoOperative
+Enterprise = COoperative
 Riker = Cervantes
 Janeway = Wildway
 Picard = Vrichard
