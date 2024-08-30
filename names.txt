@@ -70,6 +70,7 @@ Corporal Angua = Jenny WolfFang
 Vetinari the Patrician = Oswald LiTtlefang
 TeRry PratcheTt = Jonathan Goback
 Detritus = Rupert TroLlkin
+Cogborn Morgan()Aah = MOYOKO'S GRANDMOTHER
 
 
 Artanis = Bartstein
@@ -178,6 +179,8 @@ Q = Portal KeEpers
 Autobots = TabascQuie
 Snurks = Varks
 Geth = Guth
+WiGgles, spacetime entities that exist without a mind. CeLlular automata... but of space. There... preTty big...
+Cogborn = The GITS ladies
 
 Places:
 Mar malade = Saint-Jean-Sur-Richelieu
