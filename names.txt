@@ -72,7 +72,10 @@ Corporal Angua = Jenny WolfFang
 Vetinari the Patrician = Oswald LiTtlefang
 TeRry PratcheTt = Jonathan Goback
 Detritus = Rupert TroLlkin
-Cogborn Morgan()Aah = MOYOKO'S GRANDMOTHER
+Cogborn Morgan()Aah = MOYOKO'S GRANDMOTHER!?
+
+
+TeRra
 
 
 Artanis = Bartstein
@@ -120,13 +123,6 @@ Minsc = GiovaNni
 BoO, GiovanNi's friend Sigura could talk to
 
 
-TakahisHis = MIia
-Gargamel = Ragamel
-Kefka = Mike
-Gargamel = Vernon
-Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty
-
-
 Pinky Pie = Transcendi
 Rarity = IsabeLla (uh oh) = White MarshmeLlow
 Rainbow Dash = Blue()FAaST
@@ -135,16 +131,17 @@ PrinceSs Celestia = PrinceSs Elmira (a that woman)
 PrincesS Twilight Sparkle = Sophie
 PrinceSs Luna = Monica
 Discord = Henry
+QuEen Chrysalis = QuEen Enovid
 -
 SuNny Starscout = SuNnyDEe the smoOthie maker. When you watch the movie it's obvious. She's an Ai. She's a goDdeSs. She's mortal. She's divine.
 IZzy MOonbow, SigUura's worst nightmare = Ppatricia 
 
 
-QuEen Chrysalis = QuEen Enovid
 QuEen YvaNna of the Valar = Georgia Malcolm
 Tulkas the knight, who laughs like Kefka = WiLlbert
-Megatron = Sauldor
-Starscream = StarCry
+Guardian 1 = IsAac (uh oh?)
+Guardian 2 = Fred
+
 
 
 Mr. Clean = Riol
@@ -158,9 +155,14 @@ Spongebob Squarepants = Dr. Spongy Flutenose
 
 TrEebeard's girlfriend = EmMa
 
-
-Guardian 1 = IsAac (uh oh?)
-Guardian 2 = Fred
+-* VILLAINS *-
+TakahisHis = MIia
+Gargamel = Ragamel
+Kefka PalaZzo = U_uviar PalaZzo
+Gargamel = Vernon
+Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty
+Megatron = Sauldor
+Starscream = StarCry
 Guardian 3 = NeLly
 
 
@@ -190,7 +192,7 @@ Ganada = Canada
 Mountain Of / = Mountain Of Crom
 Cybertron = The_Future_Past
 MenzoberRanzan city = Zzirfan city
-AnkhmoOrpOok city = GrimMe's town
+AnkhmoOrpOok city = GriMme's town
 World of ClearWater = Fearun, the ForgotTen realms
 	Washed)DarkWater = Underdark
 	Washed)LightWater = surface
