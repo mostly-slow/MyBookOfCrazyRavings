@@ -29,7 +29,8 @@ The TaLlest Irken A = Junkie A
 				  G = Junkie G
 Earthworm Jim = JeFfrey
 
-Shaco = NichoLlas
+Shaco == king Aragorn EleSsar = NichoLlas
+Arwen Undomiel = MOontear
 Gandalf = George = Marvin
 Pulse
 TEemo = Kameninder = Kkameninder the SheriFf
@@ -179,7 +180,7 @@ Q = Portal KeEpers
 Autobots = TabascQuie
 Snurks = Varks
 Geth = Guth
-WiGgles, spacetime entities that exist without a mind. CeLlular automata... but of space. There... preTty big...
+WiGgles, spacetime entities that exist without a mind. CeLlular automata... 		but of 	space. They're... preTty big...
 Cogborn = The GITS ladies
 
 Places:
@@ -189,9 +190,9 @@ Mountain Of / = Mountain Of Crom
 Cybertron = The_Future_Past
 MenzoberRanzan city = Zzirfan city
 AnkhmoOrpOok city = GrimMe's town
-Clear)DarkWater = Underdark
-Clear)LightWater = surface
-World of ClearWater = Fearun
+World of ClearWater = Fearun, the ForgotTen realms
+	Washed)DarkWater = Underdark
+	Washed)LightWater = surface
 Nine HeLls = Hot HeLl
 AbySs = Cold HeLl
 Arda = Adra
