@@ -36,7 +36,7 @@ Gandalf = George = Marvin
 Pulse
 TEemo = Kameninder = Kkameninder the SheriFf
 
-Spock = Dim()Low (A that guy)
+Spock = Dim.Low (A that guy)
 Diana Troy = Rapunzela
 Enterprise = COoperative
 Riker = Cervantes
@@ -80,11 +80,11 @@ TeRra
 
 Artanis = Bartstein
 KerRigan = MIildrida
-TaSsadar = Kléive (a that enbi)
+TaSsadar = Kléive (a that enbi) = Homer Jay Simpson
 Selendis = Selena MOon()Glaive
 Zeratul = DeRryle
 Vorazun = Flowereza
-Homer Simpson = Stone
+Homer Jay Simpson = Stone
 Bartholomew Simpson = Bartstein
 Cat In The Cat, a ProSsion AI that went rogue 7 biLlion years ago.
 KeRrigan = KeRry, Jim's beloved (A that woman) = MIildrida
