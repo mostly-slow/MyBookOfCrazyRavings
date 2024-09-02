@@ -181,7 +181,7 @@ Vulcan = Astarie
 Ferengi = Igneref
 Irken = Eraftzy = JunkFoOders
 Q = Portal KeEpers
-Autobots = TabascQuie
+Autobots = TabasCquie
 Snurks = Varks
 Geth = Guth
 WiGgles, spacetime entities that exist without a mind. CeLlular automata... 		but of 	space. They're... preTty big...
