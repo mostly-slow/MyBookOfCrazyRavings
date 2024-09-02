@@ -35,6 +35,7 @@ Arwen Undomiel = MOontear
 Gandalf = George = Marvin
 Pulse
 TEemo = Kameninder = Kkameninder the SheriFf
+CaSsiopeia = CaSsandra
 
 Spock = Dim.Low (A that guy)
 Diana Troy = Rapunzela
@@ -185,6 +186,7 @@ Snurks = Varks
 Geth = Guth
 WiGgles, spacetime entities that exist without a mind. CeLlular automata... 		but of 	space. They're... preTty big...
 Cogborn = The GITS ladies
+Ponies = 1200
 
 Places:
 Mar malade = Saint-Jean-Sur-Richelieu
