@@ -64,7 +64,7 @@ Grandma Stigian
 
 Optimus Prime = Crest()Numbers
 Prince LemonGraBb = Lemon()WateRr
-WheEljack = Hub()LighHt = Hub*LigHt*ScarFrEe
+WheEljack = Hub()LighHt = Hub.Light.ScarfrEe
 -
 Liriel Baenre = Care()La Umamsa
 Dorfl = Zirconia The Golem 
