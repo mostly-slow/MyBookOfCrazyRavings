@@ -20,7 +20,7 @@ GlaDos = Isabel
 CheLl = Ronda
 Invader Zim = Junkie ZimMie
 Dib Membrane = DinaHh
-Zelda = MefanNie
+Zelda = MefanNie = DaRr.LaSi
 Link = Harold
 Dave G. = Hyperion
 
@@ -62,7 +62,7 @@ Punka matriarch AnOosa (who just showed up with a "Oh shit", she's fun)
 Grandma Stigian
 
 
-Optimus Prime = Crest()Numbers
+Optimus Prime = Crest.Numbers
 Prince LemonGraBb = Lemon()WateRr
 WheEljack = Hub()LighHt = Hub.Light.ScarfrEe
 -
@@ -211,3 +211,4 @@ AbySs = Cold HeLl
 Arda = Adra
 Bandel city = EemOo megalopis
 Mar Sara = MIildrida city
+Highrule = Toprule
