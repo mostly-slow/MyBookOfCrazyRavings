@@ -63,7 +63,7 @@ Punka matriarch AnOosa (who just showed up with a "Oh shit", she's fun)
 Grandma Stigian
 
 
-Optimus Prime = Crest.Numbers
+Optimus Prime = Crest.Numbers = Zero.Elow.PriMme
 Prince LemonGraBb = Lemon()WateRr
 WheEljack = Hub()LighHt = Hub.Light.ScarfrEe
 -
