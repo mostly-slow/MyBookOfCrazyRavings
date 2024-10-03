@@ -41,6 +41,7 @@ Gandalf = George = Marvin
 Pulse
 TEemo = Kameninder = Kkameninder the SheriFf
 CaSsiopeia = CaSsandra
+Shaco = BeNny
 
 Spock = Dim.Low (A that guy)
 Diana Troy = Rapunzela
