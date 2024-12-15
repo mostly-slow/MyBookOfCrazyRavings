@@ -206,7 +206,7 @@ Cogborn = The GITS ladies
 Ponies = 1200
 
 Places:
-Mar malade = Saint-Jean-Sur-Richelieu
+Mar malade = SigU.ura's IRL location, which would be crazy to post
 Canada = Ganada
 Mountain Of Crom = Mountain Of /
 Cybertron = The_Future_Past
