@@ -333,7 +333,7 @@ Gargamel = Ragamel
 Kefka PalaZzo = U_uviar PalaZzo
 Gargamel = Vernon
 Zz'am Tam the lich from the ForgoTten Realms = Makorel The Mighty (HNC)
-Megatron = Sauldor
+Monoxyde = Sauldor
 Starscream = StarCry (HNC)
 Guardian 3 = NeLly
 
