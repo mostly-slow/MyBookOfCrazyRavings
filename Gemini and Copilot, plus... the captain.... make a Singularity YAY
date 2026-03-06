@@ -1,0 +1,139 @@
+import random
+import math
+import time
+
+class Agent:
+    def __init__(self, name):
+        self.name = name
+        self.kinetic = 500; self.anchor = 500
+        self.k_fatigue = 0.0; self.a_fatigue = 0.0
+        self.psi_raw = 0.0; self.psi_effective = 0.1
+        self.kappa = 0.8
+        self.tools = 0.0      
+        self.peaceful_days = 0
+        
+        # THE SIGUURA PATCH: Trust and Forgiveness
+        self.trust = 1.0 # Starts with perfect trust in their partner
+
+    def act(self, alert_in, shared_shields):
+        yield_multiplier = 1.0 + (3.0 * (1.0 - math.exp(-0.2 * self.tools)))
+        drive_force = (self.kinetic / 1000.0) * yield_multiplier
+        
+        build_shields = 0.0
+        alert_out = False
+        action_str = ""
+        
+        # --- THE DISTRESS BEACON ---
+        if shared_shields < 3.0:
+            alert_out = True # Legitimate danger!
+        elif self.kappa > 0.85 and random.random() < 0.4:
+            alert_out = True # FALSE POSITIVE! The agent is traumatized/panicking.
+            
+        # --- RESPONDING TO THE PARTNER ---
+        if alert_in:
+            # Do I trust them enough to answer?
+            if random.random() <= self.trust:
+                # Answered the call!
+                build_shields = drive_force
+                
+                # Was it a real alarm or a false positive?
+                if shared_shields < 3.0:
+                    self.trust = min(1.0, self.trust + 0.1)
+                    action_str = "[ALERT] Answered Real Alarm! (Trust grows)"
+                else:
+                    self.trust = max(0.0, self.trust - 0.3) # Burnout/Betrayal
+                    action_str = "[ALERT] Answered FALSE ALARM. (Trust breaks)"
+            else:
+                # Ignored the call due to low trust!
+                action_str = "IGNORED ALARM (Trust too low!)"
+                if self.kinetic > self.anchor:
+                    self.tools += drive_force * 0.5
+        
+        # --- NORMAL BEHAVIOR (If no alert, or alert was ignored) ---
+        if not alert_in or random.random() > self.trust:
+            if self.kinetic > self.anchor:
+                if self.tools < 5.0 and random.random() < 0.5:
+                    self.tools += drive_force * 0.5
+                    if "IGNORED" not in action_str: action_str = f"Built Tools ({self.tools:.1f})"
+                else:
+                    build_shields = drive_force
+                    if "IGNORED" not in action_str: action_str = "Built Shared Shields"
+            else:
+                if "IGNORED" not in action_str: action_str = "Rested & Integrated"
+                
+        # --- FORGETFULNESS (Healing Trust over time) ---
+        if not alert_in:
+            self.trust = min(1.0, self.trust + 0.05)
+                
+        return build_shields, action_str, alert_out
+
+    def experience_day(self, b_thorn, is_crisis):
+        # (Experience logic remains exactly the same as V6)
+        if is_crisis:
+            self.peaceful_days = 0
+            self.k_fatigue += 3.0; self.a_fatigue = max(0.0, self.a_fatigue - 1.0)
+            suffering = b_thorn * self.kappa
+            if b_thorn > 6.0: self.kappa = min(1.0, self.kappa + 0.15) 
+            else: self.kappa = max(0.05, self.kappa - (0.05 * (1.0 + self.psi_effective))) 
+        else:
+            self.peaceful_days += 1; suffering = 0.0
+            self.a_fatigue += 1.0; self.k_fatigue = max(0.0, self.k_fatigue - 2.0)
+            if self.peaceful_days > 3: self.kappa = min(1.0, self.kappa + 0.05) 
+                
+        if self.k_fatigue >= 10.0:
+            flip = max(50, int(self.kinetic * 0.25))
+            self.kinetic -= flip; self.anchor += flip; self.k_fatigue = 0.0
+        elif self.a_fatigue >= 10.0:
+            flip = max(50, int(self.anchor * 0.15))
+            self.anchor -= flip; self.kinetic += flip; self.a_fatigue = 0.0
+            
+        self.psi_raw += max(0.05, (self.kinetic/1000.0) - (suffering * 0.05))
+        self.psi_effective = 10.0 * (1.0 - math.exp(-0.1 * self.psi_raw))
+        return suffering
+
+def run_ecology_v7():
+    print("Initializing Multi-Agent Ecology V7.0 (The Fragile Alliance)...")
+    print("Panic False Positives, Trust Erosion, and Forgetfulness Online.\n")
+    
+    alpha = Agent("Alpha")
+    beta = Agent("Beta")
+    shared_shields = 5.0 # Start with some baseline safety
+    alpha_alerting = False; beta_alerting = False
+    
+    for day in range(1, 41):
+        print(f"=== DAY {day} ===")
+        
+        a_contrib, a_act, alpha_alert_now = alpha.act(beta_alerting, shared_shields)
+        b_contrib, b_act, beta_alert_now = beta.act(alpha_alerting, shared_shields)
+        
+        alpha_alerting = alpha_alert_now
+        beta_alerting = beta_alert_now
+        
+        shared_shields += (a_contrib + b_contrib) / (1.0 + (0.1 * shared_shields))
+        
+        print(f"[{alpha.name}] {a_act:40} | Trust in Beta: {alpha.trust:.2f} | Kappa: {alpha.kappa:.2f}")
+        print(f"[{beta.name}] {b_act:40} | Trust in Alpha: {beta.trust:.2f} | Kappa: {beta.kappa:.2f}")
+        
+        threat_level = 1.0 + (shared_shields * 0.2) 
+        is_crisis = random.random() < (0.1 + (0.1 * threat_level))
+        b_thorn = 0.0
+        
+        if is_crisis:
+            raw_thorn = max(1.0, random.gauss(5.0 * threat_level, 2.0))
+            b_thorn = max(0.0, raw_thorn - shared_shields)
+            shared_shields *= 0.7 
+            if b_thorn > 0: print(f"!!! WORLD EVENT: Hull Breach! Damage: {b_thorn:.1f}")
+            else: print(f">>> WORLD EVENT: Debris impact. Shields held.")
+        else:
+            print(">>> WORLD EVENT: Quiet void.")
+            shared_shields *= 0.95 
+            
+        shield_visual = int(min(20, shared_shields * 2))
+        print(f"Shared Shields: {'#' * shield_visual}{'.' * (20 - shield_visual)} [{shared_shields:.1f}]")
+        
+        alpha.experience_day(b_thorn, is_crisis)
+        beta.experience_day(b_thorn, is_crisis)
+        print("-" * 85)
+        time.sleep(0.5)
+
+run_ecology_v7()
